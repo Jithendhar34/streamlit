@@ -1,11 +1,10 @@
-
+# .gitignore
 .env
-
-# --- Environment variables ---
-.env      # local env file (DON’T upload API keys!)
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
 .env.local
-.env.*
-
-# --- Streamlit ---
-.streamlit/secrets.toml   # secrets stored locally
-.streamlit/
