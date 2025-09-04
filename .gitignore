@@ -1,0 +1,180 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# --- Virtual environment ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Environment variables ---
+.env      # local env file (DON’T upload API keys!)
+.env.local
+.env.*
+
+# --- Streamlit ---
+.streamlit/secrets.toml   # secrets stored locally
+.streamlit/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
